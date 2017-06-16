@@ -2,7 +2,7 @@
   "name": "rest_grpc_client",
   "version": "1.0.0",
   "description": "Simple GRPC REST Clinet",
-  "main": "gulpfile.js",
+  "main": "src/main.js",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-tslint": "^8.1.1",
