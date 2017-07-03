@@ -5,4 +5,13 @@
 <file name="js/rest_grpc_client/src/main.ts">
 <error line="4" column="8" severity="error" message="Calls to &#39;console.log&#39; are not allowed." source="no-console"/>
 </file>
+<file name="js/rest_grpc_client/test/greet-test.ts">
+<error line="10" column="3" severity="error" message="file should end with a newline" source="eofline"/>
+<error line="3" column="0" severity="error" message="Consecutive blank lines are forbidden" source="no-consecutive-blank-lines"/>
+<error line="1" column="0" severity="error" message="Import sources within a group must be alphabetized." source="ordered-imports"/>
+<error line="1" column="23" severity="error" message="&#39; should be &quot;" source="quotemark"/>
+<error line="5" column="9" severity="error" message="&#39; should be &quot;" source="quotemark"/>
+<error line="6" column="7" severity="error" message="&#39; should be &quot;" source="quotemark"/>
+<error line="8" column="32" severity="error" message="&#39; should be &quot;" source="quotemark"/>
+</file>
 </checkstyle>
